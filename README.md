@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TSaha4
+- 👋 Hi, I’m Tanmoy Saha
 - 👀 I’m interested in learning new stuffs
 - 🌱 I’m currently learning to code more professionally
 - 💞️ I’m looking to collaborate on projects related to ai or ml {please tolerate me as I am still a bud}
