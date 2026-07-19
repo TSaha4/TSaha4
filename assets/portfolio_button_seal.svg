@@ -1,0 +1,32 @@
+<svg viewBox="0 0 340 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="btnbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <radialGradient id="seal" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#F87171"/>
+      <stop offset="100%" stop-color="#B91C1C"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="2" y="2" width="336" height="76" rx="14" fill="url(#btnbg)" stroke="#22D3EE" stroke-width="2"/>
+
+  <!-- dashed route line like a map path -->
+  <path d="M20,60 Q90,20 160,45" fill="none" stroke="#FBBF24" stroke-width="2" stroke-dasharray="4,5"/>
+
+  <!-- X mark -->
+  <g transform="translate(20,55)">
+    <line x1="-6" y1="-6" x2="6" y2="6" stroke="#FBBF24" stroke-width="3" stroke-linecap="round"/>
+    <line x1="-6" y1="6" x2="6" y2="-6" stroke="#FBBF24" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- wax seal -->
+  <circle cx="300" cy="40" r="22" fill="url(#seal)"/>
+  <circle cx="300" cy="40" r="22" fill="none" stroke="#7F1D1D" stroke-width="1.5"/>
+  <path d="M291,40 L297,46 L309,32" fill="none" stroke="#FEE2E2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- text -->
+  <text x="170" y="35" font-family="Fira Code, monospace" font-size="17" font-weight="bold" fill="#F8FAFC" text-anchor="middle">X MARKS THE SPOT</text>
+  <text x="170" y="55" font-family="Fira Code, monospace" font-size="11" fill="#22D3EE" text-anchor="middle" letter-spacing="1">tanmoysaha.vercel.app</text>
+</svg>

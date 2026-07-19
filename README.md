@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=210&section=header&text=Tanmoy%20Saha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Charting%20a%20course%20through%20AI%2FML%2C%20one%20project%20at%20a%20time&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=180&section=header&text=Tanmoy%20Saha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="28" width="28"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Setting+sail+from+VIT+Vellore+%F0%9F%A7%AD;Navigating+RAG+pipelines+%26+production+AI;Last+port+of+call%3A+NTPC+Vindhyanagar+%E2%9A%93" alt="typing-svg"/>
+<img src="assets/ship_banner.svg" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=99+bugs+in+the+code%2C+take+one+down%2C+127+pop+up+%F0%9F%90%9B;print(%27Hello%2C+World%27)+survivor+since+day+one+%F0%9F%91%8B;Turning+coffee+into+RAG+pipelines+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%A4%96;Probably+arguing+with+my+own+code+right+now+%F0%9F%A4%BA" alt="typing-svg"/>
 
 <br/><br/>
 
 <a href="https://tanmoysaha.vercel.app">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&background=6D28D9&center=true&vCenter=true&width=340&height=50&lines=%F0%9F%97%BA%EF%B8%8F+Chart+a+Course+to+My+Portfolio" alt="portfolio-button"/>
+<img src="assets/portfolio_button_scroll.svg" width="330"/>
 </a>
 
 </div>
 
 <br/>
 
-## 🗺️ The Voyage So Far
+## <img src="assets/icon_map.svg" width="26"/> The Voyage So Far
 
 <div style="font-size:17px; line-height:2;">
 
 🎓 Final year B.Tech CSE (AI/ML) student at VIT Vellore<br>
-🤖 Built a production RAG-based enterprise assistant during my internship @ NTPC Vindhyanagar, Madhya Pradesh<br>
+🤖 Built a production RAG-based enterprise assistant during an internship<br>
 ⚓ Docked at a few offbeat ports along the way:<br>
 &nbsp;&nbsp;&nbsp;• **Upryt** — RL-based real-time posture correction<br>
 &nbsp;&nbsp;&nbsp;• **MediBot** — AI symptom-to-department triage chatbot<br>
@@ -35,7 +36,7 @@
 
 <br/>
 
-## 🏴 Treasures Discovered
+## <img src="assets/icon_chest.svg" width="26"/> Treasures Discovered
 
 | Project | What it does |
 |---|---|
@@ -46,7 +47,7 @@
 
 <br/>
 
-## 📡 Send a Signal
+## <img src="assets/icon_radio.svg" width="26"/> Send a Signal
 
 <div align="center">
 
@@ -59,7 +60,7 @@
 
 <br/>
 
-## 🧭 Navigation Tools
+## <img src="assets/icon_compass.svg" width="26"/> Navigation Tools
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -83,16 +84,16 @@
 
 <br/>
 
-## 📜 Ship's Log
+## <img src="assets/icon_log.svg" width="26"/> Ship's Log
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TSaha4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TSaha4&show_icons=true&theme=radical&hide_border=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSaha4&theme=radical&hide_border=true&layout=compact"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TSaha4&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=TSaha4&theme=radical&hide_border=true"/>
 </div>
 
-## ⭐ Crew Achievements
+## <img src="assets/icon_star.svg" width="26"/> Crew Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=TSaha4&theme=radical&no-frame=true&margin-w=8"/>

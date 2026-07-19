@@ -1,0 +1,39 @@
+<svg viewBox="0 0 360 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDF6E3"/>
+      <stop offset="100%" stop-color="#EADDB7"/>
+    </linearGradient>
+    <linearGradient id="rollShade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C9AF7A"/>
+      <stop offset="15%" stop-color="#EADDB7" stop-opacity="0"/>
+      <stop offset="85%" stop-color="#EADDB7" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#C9AF7A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- left and right rolled ends -->
+  <ellipse cx="26" cy="45" rx="16" ry="38" fill="#C9AF7A"/>
+  <ellipse cx="334" cy="45" rx="16" ry="38" fill="#C9AF7A"/>
+  <ellipse cx="26" cy="45" rx="9" ry="34" fill="#B79A63"/>
+  <ellipse cx="334" cy="45" rx="9" ry="34" fill="#B79A63"/>
+
+  <!-- main parchment body -->
+  <rect x="26" y="8" width="308" height="74" fill="url(#parchment)"/>
+  <rect x="26" y="8" width="308" height="74" fill="url(#rollShade)"/>
+
+  <!-- torn/aged edge lines -->
+  <line x1="26" y1="8" x2="334" y2="8" stroke="#C9AF7A" stroke-width="2"/>
+  <line x1="26" y1="82" x2="334" y2="82" stroke="#C9AF7A" stroke-width="2"/>
+
+  <!-- compass rose stamp -->
+  <g transform="translate(58,45)" opacity="0.4">
+    <circle r="16" fill="none" stroke="#7C4A2D" stroke-width="1.5"/>
+    <path d="M0,-16 L4,0 L0,16 L-4,0 Z" fill="#7C4A2D"/>
+    <path d="M-16,0 L0,4 L16,0 L0,-4 Z" fill="#7C4A2D"/>
+  </g>
+
+  <!-- text -->
+  <text x="195" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-weight="bold" fill="#3F2A14" text-anchor="middle">MY PORTFOLIO</text>
+  <text x="195" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#5C4326" text-anchor="middle" letter-spacing="2">— UNROLL THE MAP —</text>
+</svg>

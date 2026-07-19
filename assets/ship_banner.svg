@@ -1,0 +1,56 @@
+<svg viewBox="0 0 700 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- transparent background, waves only -->
+  <path d="M0,150 Q60,130 120,150 T240,150 T360,150 T480,150 T600,150 T700,150 L700,190 L0,190 Z" fill="#0E7490" opacity="0.55"/>
+  <path d="M0,162 Q70,145 140,162 T280,162 T420,162 T560,162 T700,162 L700,190 L0,190 Z" fill="#22D3EE" opacity="0.35"/>
+
+  <!-- hull -->
+  <polygon points="260,140 460,140 435,172 285,172" fill="#7C4A2D"/>
+  <polygon points="260,140 460,140 455,148 265,148" fill="#8B5A34"/>
+
+  <!-- mast -->
+  <rect x="356" y="55" width="6" height="90" fill="#4B2E1A"/>
+
+  <!-- sail -->
+  <polygon points="362,60 362,118 420,92" fill="#F5F0E6" stroke="#D8CFAF" stroke-width="1.5"/>
+
+  <!-- pennant flag -->
+  <polygon points="356,55 356,40 382,48" fill="#7C3AED"/>
+
+  <!-- crow's nest flag pole detail -->
+  <circle cx="359" cy="52" r="3" fill="#FBBF24"/>
+
+  <!-- mini captain figure standing on deck, right arm raised with sword -->
+  <g>
+    <!-- legs -->
+    <line x1="332" y1="140" x2="328" y2="128" stroke="#1F2937" stroke-width="4" stroke-linecap="round"/>
+    <line x1="332" y1="140" x2="338" y2="128" stroke="#1F2937" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- torso -->
+    <rect x="323" y="108" width="18" height="22" rx="6" fill="#DC2626"/>
+
+    <!-- left arm resting on hip -->
+    <path d="M323,114 Q315,120 320,128" stroke="#F2C29B" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+    <!-- head -->
+    <circle cx="332" cy="98" r="9" fill="#F2C29B"/>
+    <!-- bandana -->
+    <path d="M323,96 Q332,86 341,96 Q332,90 323,96 Z" fill="#7C3AED"/>
+    <!-- smile -->
+    <path d="M328,101 Q332,104 336,101" stroke="#7C2D12" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+
+    <!-- raised right arm -->
+    <path d="M341,112 Q352,100 358,88" stroke="#F2C29B" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+    <!-- sword -->
+    <line x1="358" y1="88" x2="372" y2="62" stroke="#E5E7EB" stroke-width="3" stroke-linecap="round"/>
+    <line x1="363" y1="82" x2="369" y2="86" stroke="#FBBF24" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="358" cy="88" r="2.5" fill="#FBBF24"/>
+  </g>
+</svg>
