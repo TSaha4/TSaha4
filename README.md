@@ -1,8 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tanmoy%20Saha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:0E7490,100:22D3EE&text=Tanmoy%20Saha&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Keep%20building%20%E2%80%94%20even%20sinking%20ships%20teach%20you%20to%20swim." alt="Typing introduction" />
+  <a href="https://tanmoysaha.vercel.app">
+    <img src="assets/terminal_button.svg" width="380"/>
+  </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22D3EE,50:0E7490,100:0F172A&text=Keep%20building%20%E2%80%94%20even%20sinking%20ships%20teach%20you%20to%20swim.&fontSize=16&fontColor=fff&animation=fadeIn&fontAlignY=55&reversal=true"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=TSaha4">
@@ -114,12 +118,11 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div> -->
-
+</div>
