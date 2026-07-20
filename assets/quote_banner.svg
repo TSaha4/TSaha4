@@ -13,18 +13,25 @@
       <stop offset="0%" stop-color="#161B22"/>
       <stop offset="100%" stop-color="#0D1117"/>
     </linearGradient>
+    <filter id="quoteglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0" result="blur">
+        <animate attributeName="stdDeviation" values="0;4;0" dur="3s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 0.13   0 0 0 0 0.83   0 0 0 0 0.93  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <rect width="900" height="110" fill="url(#bgflat2)"/>
   <rect x="0" y="0" width="900" height="110" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.35"/>
 
-  <text x="450" y="50" text-anchor="middle" class="quote-text" opacity="0">
+  <text x="450" y="50" text-anchor="middle" class="quote-text" filter="url(#quoteglow)">
     "Keep building &#8212; even sinking ships teach you to swim."
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.25;0.75" dur="2.5s" fill="freeze"/>
   </text>
 
-  <rect x="380" y="68" width="0" height="2" fill="#22D3EE">
-    <animate attributeName="width" values="0;140" keyTimes="0;1" dur="1.4s" begin="1s" fill="freeze"/>
-    <animate attributeName="x" values="450;380" keyTimes="0;1" dur="1.4s" begin="1s" fill="freeze"/>
-  </rect>
+  <rect x="380" y="68" width="140" height="2" fill="#22D3EE"/>
 </svg>
