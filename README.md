@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22D3EE,50:0E7490,100:0F172A&text=Keep%20building%20%E2%80%94%20even%20sinking%20ships%20teach%20you%20to%20swim.&fontSize=16&fontColor=fff&animation=fadeIn&fontAlignY=55&reversal=true"/>
+<img src="assets/quote_banner.svg" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=TSaha4">
@@ -117,11 +117,11 @@
   </a>
 </p>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
