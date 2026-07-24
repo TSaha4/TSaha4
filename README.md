@@ -35,6 +35,7 @@
 - Whatever new tech breaks my brain this month
 
 
+<!--
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/TSaha4">
@@ -45,6 +46,7 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=TSaha4&theme=github_dark&radius=10" alt="TSaha4's Activity Graph" />
 </p>
+-->
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
