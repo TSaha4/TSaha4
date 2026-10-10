@@ -1,130 +1,107 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:0E7490,100:22D3EE&text=Tanmoy%20Saha&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&textBg=false"/>
-
-<p align="center">
-  <a href="https://tanmoysaha.vercel.app">
-    <img src="assets/terminal_button.svg" width="380"/>
-  </a>
-</p>
-
-<img src="assets/quote_banner.svg" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=TSaha4">
-    <img src="https://komarev.com/ghpvc/?username=TSaha4&label=Profile%20views&color=00FFFF&style=flat-square" alt="TSaha4's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 🎓 Final year B.Tech CSE (AI/ML) student at VIT Vellore
-- 🐛 Professional bug creator, occasional bug fixer
-- ☕ Turning tea into code since sophomore year
-- 🧠 Deep into AI/ML, always chasing the next paper or framework to break
-- 💻 Equally at home shipping SDE / web dev work when the vibe calls for it
-- 🚀 Perpetually learning, perpetually one Stack Overflow tab away from disaster
-- 🌐 Have a look 😎: tanmoysaha.vercel.app
-
-
-## 🧠 My Focus Areas
-- Artificial Intelligence & Machine Learning
-- Natural Language Processing
-- Agents
-- Full-Stack / Web Development
-- Backend Systems & APIs
-- Whatever new tech breaks my brain this month
-
-
-<!--
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/TSaha4">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TSaha4&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="TSaha4's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=TSaha4&theme=github_dark&hide_border=true&cache_seconds=86400" alt="TSaha4's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=TSaha4&theme=github_dark&radius=10" alt="TSaha4's Activity Graph" />
-</p>
--->
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Tanmoy%20Saha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CS%20(AI/ML)%20@%20VIT%20Vellore&descAlignY=58&descSize=20" width="100%"/>
+
+<a href="https://tanmoysaha.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-6D28D9?style=for-the-badge&logoColor=white&labelColor=06B6D4" height="45"/>
+</a>
+
 </div>
 
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=TSaha4)
 <br/>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanmoy-saha-4b0ab228a/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:s.tanmoy2004@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://tanmoysaha.vercel.app">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+## 💫 About Me
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TSaha4/TSaha4/output/pacman-contribution-graph.svg">
-</picture> -->
+<div style="font-size:17px; line-height:2;">
+
+🎓 Final year B.Tech CSE (AI/ML) student at VIT Vellore<br>
+🤖 Built a production RAG-based enterprise assistant during my internship @ NTPC Vindhyanagar, Madhya Pradesh<br>
+🚀 Creator & contributor across a few offbeat projects:<br>
+&nbsp;&nbsp;&nbsp;• **Upryt** — RL-based real-time posture correction<br>
+&nbsp;&nbsp;&nbsp;• **MediBot** — AI symptom-to-department triage chatbot<br>
+&nbsp;&nbsp;&nbsp;• **Latch** — auto WiFi login for hostel networks<br>
+&nbsp;&nbsp;&nbsp;• **Drone Flood-Relief Planner** — CV-based drone mission generator<br>
+🐍 Daily drivers: **Python, FastAPI, PyTorch, Kotlin** — with PostgreSQL+pgvector on standby<br>
+💬 Ask me about RAG pipelines, NLP retrieval, or Android background services<br>
+📫 Reach me: **s.tanmoy2004@gmail.com**<br>
+🌐 Portfolio: **tanmoysaha.vercel.app**
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://tanmoysaha.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmoy-saha-4b0ab228a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TSaha4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.tanmoy2004@gmail.com)
+
 </div>
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Backend / Web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Data & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=TSaha4&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TSaha4&theme=radical&hide_border=true&layout=compact"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=TSaha4&theme=radical&hide_border=true"/>
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TSaha4&theme=radical&no-frame=true&margin-w=8"/>
+</div>
+
+<div align="center">
+
+[![Visitors](https://komarev.com/ghpvc/?username=TSaha4&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
