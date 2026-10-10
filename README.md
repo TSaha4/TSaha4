@@ -1,14 +1,20 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:0E7490,100:22D3EE&text=Tanmoy%20Saha&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&textBg=false"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Tanmoy%20Saha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CS%20(AI/ML)%20@%20VIT%20Vellore&descAlignY=58&descSize=20" width="100%"/>
+<p align="center">
+  <a href="https://tanmoysaha.vercel.app">
+    <img src="assets/terminal_button.svg" width="380"/>
+  </a>
+</p>
 
-<a href="https://tanmoysaha.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-6D28D9?style=for-the-badge&logoColor=white&labelColor=06B6D4" height="45"/>
-</a>
+<img src="assets/quote_banner.svg" width="100%"/>
 
-</div>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=TSaha4">
+    <img src="https://komarev.com/ghpvc/?username=TSaha4&label=Profile%20views&color=00FFFF&style=flat-square" alt="TSaha4's profile views" />
+  </a>
+</p>
 
-<br/>
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 ## 💫 About Me
 
@@ -90,6 +96,10 @@
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TSaha4&theme=radical&hide_border=true&layout=compact"/>
 <br/>
 <img src="https://streak-stats.demolab.com/?user=TSaha4&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
 ## 🏆 Trophies
